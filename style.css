@@ -7,7 +7,7 @@
 
 body {
     height: 100vh;
-    background: linear-gradient(120deg, rgb(47, 109, 48), black);
+    background: linear-gradient(120deg, gray, black);
     display: flex;
     align-items: center;
     justify-content: center;
